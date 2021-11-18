@@ -17,5 +17,5 @@ cache_set <- function(x, value) {
   #
   # Base URL for testing: https://testnet.binance.vision/.
   #
-  cache$BASE_URL <- "https://api.binance.com"
+  cache$BASE_URL <- "https://api.binance.us"
 }
